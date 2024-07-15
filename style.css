@@ -145,6 +145,28 @@ h3 {
   right: 30%;
 }
 
+.img6 {
+  top: 25%;
+  left: 25%;
+}
+.img7 {
+  top: 25%;
+  right: 25%;
+}
+.img8 {
+  bottom: 30%;
+  left: 15%;
+}
+.img9 {
+  bottom: 30%;
+  right: 15%;
+}
+.img10 {
+  bottom: 5%;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
 .collage-text {
   z-index: 1;
   text-align: center;
