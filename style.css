@@ -154,9 +154,20 @@ h3 {
 
 .video {
   position: absolute;
-  top: 0;
-  left: 0;
+  top: 10%;
+  left: 10%;
   width: 50%;
-  height: 50%;
+  height: 80%;
   object-fit: cover;
+}
+
+section p {
+  position: absolute;
+  left: 75%;
+  top: 10%;
+  color: black;
+  max-width: 200px;
+  line-height: 50px;
+  text-align: center;
+  font-size: 24px;
 }
